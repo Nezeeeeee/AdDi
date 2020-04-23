@@ -13,7 +13,7 @@ body{
     }
 }
 
-/*Для декстопов*/
+/*Для десктопов*/
 @media(min-width:769px){
     body{
         background-color: blue;
